@@ -1,0 +1,28 @@
+.btn-div{
+  display: flex;
+  justify-content: space-around;
+}
+.cart-btn{
+  width: 100px;
+}
+.price-tag{
+  color: green;
+}
+.main_heading-tag{
+  display: flex; 
+  justify-content: space-between;
+}
+.store-heading{
+  color: rgb(109, 109, 109);
+  margin: 30px 0px;
+}
+.black{
+  color: black;
+}
+.secound-tag{
+  margin: 20px 0px;
+}
+.footer-sec{
+  display: flex;
+  justify-content: space-between;
+}
